@@ -5,4 +5,3 @@ Mon fichier README.md
 
 GH1
 GH2
-C1
